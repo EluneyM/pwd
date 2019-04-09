@@ -5,7 +5,7 @@
 // then click the URL that is emitted to the Output tab of the console
 
 echo 'Hello world from Cloud9!';
-echo "cambiando con git";
+echo "cambiando con git"; //cometario de la linea echo
 echo 'Otra linea random'
 ?>
 </body>
